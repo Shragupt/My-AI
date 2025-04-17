@@ -12,4 +12,7 @@ Welcome to **ShradsGPT** – an AI-powered conversational web app that mimics th
 - 🔐 **Secure API Integration** using OpenAI / LLM APIs
 - ☁️ **Deployed on the web** – Access anywhere, anytime
 
-- "The future is AI – build with it, grow with it."
+
+ 
+ 
+ ## "The future is AI – build with it, grow with it."
